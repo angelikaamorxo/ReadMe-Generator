@@ -28,6 +28,8 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+## Screenshot of terminal:
+![screenshot](https://user-images.githubusercontent.com/94064933/155533383-a17959bb-d64b-469b-b8b9-a9e7b8ecd894.PNG)
 
 ## Link to deployed application: 
 https://www.youtube.com/watch?v=DnvhLoOp82A&ab_channel=AngelikaAmor
